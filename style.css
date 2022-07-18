@@ -4,10 +4,7 @@
 
 body {
     background-color: aquamarine;
-}
-
-.special {
-    color: green;
+    font-family: 'Cormorant SC', serif;
 }
 
 .box {
